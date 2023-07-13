@@ -1,0 +1,59 @@
+.CrearBlog-Main {
+    margin-top: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.CreateBlog-Form {
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo-crearBlog {
+    font-size: 1.7em;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(216, 120, 120);
+    padding: 5px;
+    background: none;
+    border-bottom: 2px solid rgb(216, 120, 120);
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    outline: none;
+}
+
+.url-crearBlog {
+    padding: 5px;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.text-area-crearBlog {
+    font-size: 1.4em;
+    color: rgb(216, 120, 120);
+    border-radius: 3px;
+    text-align: center;
+    background: none;
+    outline: none;
+    border: 1px solid black;
+}
+
+.boton-subir-crearBlog {
+    font-family: monospace;
+    padding: 7px;
+    border: none;
+    background: none;
+    border: 1px solid rgb(22, 22, 22);
+}
+
+.boton-subir-crearBlog:hover {
+    cursor: pointer;
+    background: rgb(216, 120, 120);
+}

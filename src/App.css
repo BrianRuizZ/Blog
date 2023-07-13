@@ -1,0 +1,16 @@
+.main {
+    margin: 0;
+    padding: 0;
+    background: rgb(250, 222, 222)
+}
+
+.boton-agregar-textArea {
+    font-size: 2em;
+    background:none;
+    border: none;
+    color: rgb(10, 10, 10);
+}
+
+.boton-agregar-textArea:hover {
+    cursor: pointer;
+}
